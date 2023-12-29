@@ -1,3 +1,2 @@
-ultralystics
+ultralytics
 streamlit
-PIL
